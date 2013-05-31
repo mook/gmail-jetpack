@@ -1,0 +1,10 @@
+{
+  "name": "gmail-2",
+  "fullName": "gmail-2",
+  "id": "jid1-Fkq4mVZgbRnI8Q",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "dependencies": ["toolbarbutton"]
+}
